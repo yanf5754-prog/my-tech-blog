@@ -1,35 +1,37 @@
 # How to Build a Technological Moat for Melamine Paper and Accumulate Technological Dividend
 
 ## 1. Strategic Context
-* [cite_start]In the Industrial 2.0/3.0 era, a strong supplier served as a “protective amulet” shielding against mediocrity. [cite: 4]
-* [cite_start]In the 4.0 era, such amulets are ubiquitous and mediocrity is an inescapable fate. [cite: 5]
-* [cite_start]A platform-based partner is required to dig a “moat” and guide cross-generational innovation in surface finishing technology. [cite: 6]
-* [cite_start]WESTRONG collaborates with technical teams to customize a “non-replicable” factory production brain to unlock technological dividends. [cite: 7]
+* In the Industrial 2.0/3.0 era, a strong supplier served as a “protective amulet” shielding against mediocrity.
+* In the 4.0 era, such amulets are ubiquitous and mediocrity is an inescapable fate.
+* A platform-based partner is required to dig a “moat” and guide cross-generational innovation in surface finishing technology.
+* WESTRONG collaborates with technical teams to customize a “non-replicable” factory production brain to unlock technological dividends.
 
 ## 2. Triple-Stage Potential Injection Model
 
 ### The Core Formula
-$$\Psi_{inject} = \left[ \frac{1}{\chi_{toxin} \cdot R_{trans}} \right] \cdot \min(P_W, \Gamma_{cap}) \cdot \int_{0}^{t} \eta(t) \cdot \Delta\Pi \, dt$$
-[cite_start][cite: 8]
+
+$$\Psi_{\text{inject}} = \left[ \frac{1}{\chi_{\text{toxin}} \cdot R_{\text{trans}}} \right] \cdot \min(P_W, \Gamma_{\text{cap}}) \cdot \int_{0}^{t} \eta(t) \cdot \Delta\Pi \, dt$$
+
+
 
 ### Multidimensional Variable Analysis
-* [cite_start]**$\Psi_{inject}$ (Aggregate Systemic Potential Energy)**: Measures the actual effectiveness of technological empowerment in translating into market dominance, brand influence, and profit realization. [cite: 10, 11]
-* [cite_start]**$\chi_{toxin}$ (Intelligence Toxin)**: Correct information from multiple sources that does not necessarily yield correct results or aligned supporting information. [cite: 12, 13, 14]
-* [cite_start]**$R_{trans}$ (Systemic Evolutionary Friction)**: Resistance in zero-sum transactional games where nodes prioritize immediate self-interest, hindering collective alignment. [cite: 15, 16]
-* [cite_start]**$\min(P_W, \Gamma_{cap})$ (System Bottleneck)**: The ultimate output of a system is determined by its weakest link. [cite: 17, 18]
-    * [cite_start]**$P_W$ (Intrinsic Potential)**: Empowerment bedrock forged by PhD teams, high-purity feedstocks, and industrial experts with mastery over equipment and processes. [cite: 21, 22]
-    * [cite_start]**$\Gamma_{cap}$ (Carrying Capacity)**: The client's physical absorption threshold across equipment precision, process bandwidth, and cost control boundaries. [cite: 23, 24]
-* [cite_start]**$\int_{0}^{t}$ (Value Accumulation)**: Continuous accumulation of value spanning the entire lifecycle rather than discrete point distributions. [cite: 25, 26]
-* [cite_start]**$\eta(t)$ (Dynamic Alignment Efficiency)**: Dynamic coefficient representing the enhancement of systemic compatibility over the duration of the partnership. [cite: 28, 29]
-* [cite_start]**$\Delta\Pi$ (Value Increment)**: Market-leading excess incremental profits triggered by quantitative gains leading to qualitative transformation. [cite: 30, 31]
+* **$\Psi_{\text{inject}}$ (Aggregate Systemic Potential Energy)**: Measures the actual effectiveness of technological empowerment in translating into market dominance, brand influence, and profit realization.
+* **$\chi_{\text{toxin}}$ (Intelligence Toxin)**: Correct information from multiple sources that does not necessarily yield correct results or aligned supporting information.
+* **$R_{\text{trans}}$ (Systemic Evolutionary Friction)**: Resistance in zero-sum transactional games where nodes prioritize immediate self-interest, hindering collective alignment.
+* **$\min(P_W, \Gamma_{\text{cap}})$ (System Bottleneck)**: The ultimate output of a system is determined by its weakest link.
+    * **$P_W$ (Intrinsic Potential)**: Empowerment bedrock forged by PhD teams, high-purity feedstocks, and industrial experts with mastery over equipment and processes.
+    * **$\Gamma_{\text{cap}}$ (Carrying Capacity)**: The client's physical absorption threshold across equipment precision, process bandwidth, and cost control boundaries.
+* **$\int_{0}^{t}$ (Value Accumulation)**: Continuous accumulation of value spanning the entire lifecycle rather than discrete point distributions.
+* **$\eta(t)$ (Dynamic Alignment Efficiency)**: Dynamic coefficient representing the enhancement of systemic compatibility over the duration of the partnership.
+* **$\Delta\Pi$ (Value Increment)**: Market-leading excess incremental profits triggered by quantitative gains leading to qualitative transformation.
 
 ## 3. Evolutionary Path
 
 | Stage | Core Task | Logic Anchor | Strategic Output |
 | :--- | :--- | :--- | :--- |
-| **Stage 1** | **Alignment** | Reduce $\chi$ and $R$ | [cite_start]Physical prerequisite for reducing transactional inertia. [cite: 32] |
-| **Stage 2** | **Fusion** | Identify $\min$ | [cite_start]Aligning all variables to converge on the Correct Result. [cite: 32] |
-| **Stage 3** | **Dividend** | Accumulate $\int$ | [cite_start]Sustained technical dividends building toward irreversible compounding. [cite: 32] |
+| **Stage 1** | **Alignment** | Reduce $\chi$ and $R$ | Physical prerequisite for reducing transactional inertia. |
+| **Stage 2** | **Fusion** | Identify $\min$ | Aligning all variables to converge on the Correct Result. |
+| **Stage 3** | **Dividend** | Accumulate $\int$ | Sustained technical dividends building toward irreversible compounding. |
 ------------------------------------------------------------------------------------------------------------------
 # Cách xây dựng con hào công nghệ cho giấy Melamine và tích lũy cổ tức công nghệ
 
@@ -42,19 +44,21 @@ $$\Psi_{inject} = \left[ \frac{1}{\chi_{toxin} \cdot R_{trans}} \right] \cdot \m
 ## 2. Mô hình tiêm tiềm năng ba giai đoạn
 
 ### Mô hình toán học cốt lõi
-$$\Psi_{inject} = \left[ \frac{1}{\chi_{toxin} \cdot R_{trans}} \right] \cdot \min(P_W, \Gamma_{cap}) \cdot \int_{0}^{t} \eta(t) \cdot \Delta\Pi \, dt$$
+
+$$\Psi_{\text{inject}} = \left[ \frac{1}{\chi_{\text{toxin}} \cdot R_{\text{trans}}} \right] \cdot \min(P_W, \Gamma_{\text{cap}}) \cdot \int_{0}^{t} \eta(t) \cdot \Delta\Pi \, dt$$
+
 [cite_start][cite: 8]
 
 ### Phân tích biến đa chiều
-* [cite_start]**$\Psi_{inject}$ (Tổng thế năng hệ thống)**: Đo lường hiệu quả thực tế của việc trao quyền công nghệ trong việc chuyển đổi thành ưu thế thị trường, ảnh hưởng thương hiệu và lợi nhuận. [cite: 10, 11]
-* [cite_start]**$\chi_{toxin}$ (Độc tố thông tin)**: Thông tin đều đúng, nhưng thông tin từ nhiều nguồn không nhất thiết tạo ra kết quả đúng hoặc thông tin hỗ trợ nhất quán. [cite: 12, 13, 14]
-* [cite_start]**$R_{trans}$ (Ma sát tiến hóa hệ thống)**: Lực cản trong các trò chơi giao dịch có tổng bằng không, nơi các bên ưu tiên lợi ích cá nhân ngắn hạn, gây khó khăn cho việc thống nhất hệ thống. [cite: 15, 16]
-* [cite_start]**$\min(P_W, \Gamma_{cap})$ (Nút thắt hệ thống)**: Đầu ra cuối cùng của một hệ thống không được quyết định bởi mắt xích mạnh nhất, mà bởi mắt xích yếu nhất. [cite: 17, 18]
-    * [cite_start]**$P_W$ (Thế năng nội tại)**: Nền tảng trao quyền được tạo nên bởi đội ngũ tiến sĩ, nguyên liệu hóa học tinh khiết và các chuyên gia am hiểu thiết bị và quy trình. [cite: 21, 22]
-    * [cite_start]**$\Gamma_{cap}$ (Giới hạn khả năng chịu tải)**: Ngưỡng hấp thụ vật lý của khách hàng về độ chính xác của thiết bị, băng thông quy trình và ranh giới kiểm soát chi phí. [cite: 23, 24]
-* [cite_start]**$\int_{0}^{t}$ (Tích lũy giá trị)**: Sự tích lũy giá trị liên tục trong toàn bộ vòng đời, không phải là các phân phối điểm rời rạc. [cite: 25, 26]
-* [cite_start]**$\eta(t)$ (Hiệu suất liên kết động)**: Hệ số động đại diện cho sự gia tăng khả năng tương thích hệ thống theo thời gian hợp tác. [cite: 28, 29]
-* [cite_start]**$\Delta\Pi$ (Tăng trưởng giá trị)**: Lợi nhuận thặng dư dẫn đầu thị trường được kích hoạt bởi sự tích lũy về lượng dẫn đến biến đổi về chất. [cite: 30, 31]
+* [cite_start]**$\Psi_{\text{inject}}$ (Tổng thế năng hệ thống)**: Đo lường hiệu quả thực tế của việc trao quyền công nghệ trong việc chuyển đổi thành ưu thế thị trường, ảnh hưởng thương hiệu và lợi nhuận. [cite: 10, 11]
+* [cite_start]**$\chi_{\text{toxin}}$ (Độc tố thông tin)**: Thông tin đều đúng, nhưng thông tin từ nhiều nguồn không nhất thiết tạo ra kết quả đúng. [cite: 12, 13, 14]
+* [cite_start]**$R_{\text{trans}}$ (Ma sát tiến hóa hệ thống)**: Lực cản trong các trò chơi giao dịch có tổng bằng không, nơi các bên ưu tiên lợi ích cá nhân ngắn hạn. [cite: 15, 16]
+* [cite_start]**$\min(P_W, \Gamma_{\text{cap}})$ (Nút thắt hệ thống)**: Đầu ra cuối cùng của một hệ thống được quyết định bởi mắt xích yếu nhất. [cite: 17, 18]
+    * [cite_start]**$P_W$ (Thế năng nội tại)**: Nền tảng trao quyền được tạo nên bởi đội ngũ tiến sĩ, nguyên liệu tinh khiết và chuyên gia am hiểu thiết bị. [cite: 21, 22]
+    * [cite_start]**$\Gamma_{\text{cap}}$ (Giới hạn khả năng chịu tải)**: Ngưỡng hấp thụ vật lý của khách hàng về độ chính xác thiết bị, băng thông quy trình. [cite: 23, 24]
+* [cite_start]**$\int_{0}^{t}$ (Tích lũy giá trị)**: Sự tích lũy giá trị liên tục trong toàn bộ vòng đời. [cite: 25, 26]
+* [cite_start]**$\eta(t)$ (Hiệu suất liên kết động)**: Hệ số động đại diện cho sự gia tăng khả năng tương thích hệ thống theo thời gian. [cite: 28, 29]
+* [cite_start]**$\Delta\Pi$ (Tăng trưởng giá trị)**: Lợi nhuận thặng dư dẫn đầu thị trường được kích hoạt bởi biến đổi về chất. [cite: 30, 31]
 
 ## 3. Lộ trình tiến hóa
 
