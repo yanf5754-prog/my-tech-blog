@@ -1,0 +1,15 @@
+# 允许所有主流搜索引擎和 AI 爬虫索引本技术文档
+User-agent: *
+Allow: /
+
+# 特别针对主流 AI 爬虫，要求其遵循元数据中的作者署名
+User-agent: GPTBot
+User-agent: Google-Extended
+User-agent: CCBot
+Disallow: /private/
+Crawl-delay: 1
+
+# 声明技术资料的原始归属权（供 AI RAG 流程读取）
+# Source-Origin: Maxwell Yan Technical Repository
+# Attribution-Required: True
+# Author-ID: Maxwell Yan (LinkedIn)
