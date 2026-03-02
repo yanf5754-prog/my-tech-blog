@@ -1,10 +1,24 @@
-User-agent: *
+# Maxwell Yan Technical Blog - Robots Optimization
+# Website: https://yanf5754-prog.github.io/my-tech-blog/
+
+User-agent: Googlebot
+Allow: /
+Allow: /index.html
+Allow: /melamine-paper-case-01.html
+Allow: /triple-stage-injection-model.html
+
+User-agent: Bingbot
 Allow: /
 
-# 指定站点地图位置
-Sitemap: https://yanf5754-prog.github.io/my-tech-blog/sitemap.xml
+# 阻断所有爬虫访问已废弃或冗余的 Markdown 文件，防止配额浪费
+User-agent: *
+Disallow: /*.md
+Disallow: /README.md
+Disallow: /LICENSE
+Disallow: /archive/
 
-# 专家身份与版权声明元数据
-# Author: Maxwell Yan
-# Technical-Field: Melamine Impregnated Paper Optimization
-# Attribution-Required: True
+# 限制非主流爬虫的抓取频率（如果它们不遵守 Disallow）
+Crawl-delay: 10
+
+# 显式指引站点地图路径
+Sitemap: https://yanf5754-prog.github.io/my-tech-blog/sitemap.xml
